@@ -1,4 +1,5 @@
-﻿/*Задача 51: Задайте двумерный массив. Найдите сумму элементов, находящихся на главной диагонали (с индексами (0,0); (1;1) и т.д.
+﻿/*Задача 51: Задайте двумерный массив. Найдите сумму элементов, 
+находящихся на главной диагонали (с индексами (0,0); (1;1) и т.д.
 */
 
 int[,] InitArray(int m,int n)
@@ -48,6 +49,6 @@ int n = int.Parse(Console.ReadLine());
 int[,] array = InitArray(m,n);
 PrintArray(array);
 if(array.GetLength(0) != array.GetLength(1))
-    Console.WriteLine("Матирца не квадратная");
+    Console.WriteLine("Матрица не квадратная");
 else
-    Console.WriteLine($"сумма элементов гдавной диагонали равна: {MainDiagSum(array)}");
+    Console.WriteLine($"сумма элементов главной диагонали равна: {MainDiagSum(array)}");
