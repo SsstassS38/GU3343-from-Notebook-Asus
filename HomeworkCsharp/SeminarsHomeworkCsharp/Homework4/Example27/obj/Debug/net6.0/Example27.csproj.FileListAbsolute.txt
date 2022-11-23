@@ -1,0 +1,15 @@
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\bin\Debug\net6.0\Example27.exe
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\bin\Debug\net6.0\Example27.deps.json
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\bin\Debug\net6.0\Example27.runtimeconfig.json
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\bin\Debug\net6.0\Example27.dll
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\bin\Debug\net6.0\Example27.pdb
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\obj\Debug\net6.0\Example27.csproj.AssemblyReference.cache
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\obj\Debug\net6.0\Example27.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\obj\Debug\net6.0\Example27.AssemblyInfoInputs.cache
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\obj\Debug\net6.0\Example27.AssemblyInfo.cs
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\obj\Debug\net6.0\Example27.csproj.CoreCompileInputs.cache
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\obj\Debug\net6.0\Example27.dll
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\obj\Debug\net6.0\refint\Example27.dll
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\obj\Debug\net6.0\Example27.pdb
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\obj\Debug\net6.0\Example27.genruntimeconfig.cache
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework4\Example27\obj\Debug\net6.0\ref\Example27.dll

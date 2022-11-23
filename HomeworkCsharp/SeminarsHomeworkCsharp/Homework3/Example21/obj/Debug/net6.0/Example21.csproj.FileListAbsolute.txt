@@ -1,0 +1,15 @@
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\obj\Debug\net6.0\Example21.csproj.AssemblyReference.cache
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\obj\Debug\net6.0\Example21.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\obj\Debug\net6.0\Example21.AssemblyInfoInputs.cache
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\obj\Debug\net6.0\Example21.AssemblyInfo.cs
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\obj\Debug\net6.0\Example21.csproj.CoreCompileInputs.cache
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\bin\Debug\net6.0\Example21.exe
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\bin\Debug\net6.0\Example21.deps.json
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\bin\Debug\net6.0\Example21.runtimeconfig.json
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\bin\Debug\net6.0\Example21.dll
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\bin\Debug\net6.0\Example21.pdb
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\obj\Debug\net6.0\Example21.dll
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\obj\Debug\net6.0\refint\Example21.dll
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\obj\Debug\net6.0\Example21.pdb
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\obj\Debug\net6.0\Example21.genruntimeconfig.cache
+E:\GB3343\GU_3343\Homework1_Csharp\HomeworkCsharp\Homework3\Example21\obj\Debug\net6.0\ref\Example21.dll
